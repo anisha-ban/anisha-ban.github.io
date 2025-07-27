@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Anisha Banerjee
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Anisha Banerjee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anisha
+last_name: Banerjee
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,110 +20,113 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Doctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Technical University of Munich
+    url: https://www.ce.cit.tum.de/lnt/mitarbeiter/doktoranden/banerjee/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:anisha.banerjee@tum.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/anisha-ban
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/anisha-banerjee-676a941b/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=Fa3ZK2EAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-2285-1482
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Coding for insertions and deletions
+  - DNA-based Data Storage
+  - Nanopore Sequencing
+  - Convolutional Codes
+  - Reed-Solomon Codes
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  #- area: PhD Computer Engineering
+  #  institution: Technical University Of Munich
+  #  date_start: 2021-04-01
+  #  date_end: 20206-03-31
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: M.Sc. Communications Engineering
+    institution: Technical University of Munich
+    date_start: 2018-10-01
+    date_end: 2021-03-03
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 1.0 (High distinction)
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis: `Sequential Decoding of Convolutional Codes for Insertion/Deletion Channels`
+        - Supervised by Dr. Andreas Lenz at the Chair of Coding for Communications and Data Storage (Prof. Dr.-Ing. Antonia Wachter-Zeh)
+        - Dealt with efficient decoding algorithms for convolutional codes to correct insertion & deletion errors. We derived a new decoding metric to facilitate the implementation of sequential decoders for insertion/deletion channels and compared a sequential Fano decoder with a Viterbi approach.
+        - Awarded the Walter Gademann Master's Thesis Award of the TUM Department of Electrical and Computer Engineering (ECE)
+
+  - area: B.Eng. Electrical Engineering
+    institution: Jadavpur University
+    date_start: 2014-08-01
+    date_end: 2018-07-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 9.33/10 (distinction)
+
+      Thesis: `Fuzzy sliding mode control- Implementation on an inverted pendulum on a cart system`
+        - Supervised by Dr. Smita Sadhu at the Dept. of Electrical Engineering
+        - Dealt with implementing a sliding mode control algorithm in MATLAB, that accepts fuzzy inputs to tackle the problem of an inverted pendulum on a cart system.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Scientific assistant (HiWi)
+    company_name: Chair of Audio Information Processing (Prof. Seeber), Technical University of Munich
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2019-10-01
+    date_end: 2020-12-15
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Tasks and project:
+      - Animation retargeting on 3D character models
+      - Mesh modelling, editing and texturing
+      - Mesh rendering and animations for Unreal Engine
+  - position: Working student
+    company_name: TWAICE GmBh
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-04-01
+    date_end: 2019-07-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Tasks:
+      - Determination of cell parameters from experimental data
+      - Processing and de-noising of measured signals
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
+      - name: C++
+        icon: code-bracket
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      #- name: Data Science
+      #  description: ''
+      #  percent: 100
+      #  icon: chart-bar
+      #- name: SQL
+      #  description: ''
+      #  percent: 40
+      #  icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -132,10 +135,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
+        icon: person-simple-run
       - name: Photography
         description: ''
         percent: 80
@@ -144,43 +147,58 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: German
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Best poster award
+    url: https://www.ce.cit.tum.de/en/lnt/news-and-talks/article/esit-2024-best-poster-award-for-anisha-banerjee-and-alex-jaeger/
+    date: '2024-07-05'
+    awarder: European School of Information Theory (ESIT), TU Eindhoven
+    #icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      For the poster titled "Error-correcting codes for nanopore sequencing" based on our [TIT paper](https://ieeexplore.ieee.org/document/10478160).
+  - title: Teaching Assistant Award
+    url: https://www.ce.cit.tum.de/en/lnt/news-and-talks/archive/single-view-archive/article/teaching-award-for-anisha-banerjee-and-lukas-holzbaur/
+    date: '2022-09-30'
+    awarder: Fachschaft Elektrotechnik und Informationstechnik, Technical University of Munich
+    #icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Awarded at the "Tag der Fakultät" for teaching assistance in the course Channel Coding (WS21/22)
+  - title: Walter Gademann Master’s Thesis Award
+    url: https://www.ce.cit.tum.de/en/lnt/news-and-talks/honors-and-awards/single-view-awards/article/walter-gademann-award-for-anisha-banerjee/
+    date: '2021-04-30'
+    awarder: Dept. of Electrical and Computer Engineering (ECE), Technical University of Munich
+    #icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      For the Master's thesis titled `Sequential Decoding of Convoutional Codes for Insertion/Deletion Channels`.
+  - title: Deutschlandstipendium/German National Scholarship
+    date: '2019-08-10'
+    awarder: Technical University of Munich, Bundesministerium für Forschung, Technologie und Raumfahrt
+    #icon: datacamp
+    #summary: |
+    #  For the Master's thesis titled `Sequential Decoding of Convoutional Codes for Insertion/Deletion Channels`.
+  - title: Award for securing rank 2 in Dept. of Electrical Eng., Batch of '18
+    date: '2018-07-30'
+    awarder: Jadavpur University
+  - title: Award for highest score in 3rd year examinations in Dept. of Electrical Eng.
+    date: '2017-06-01'
+    awarder: Jadavpur University
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Anisha! :)
+
+I'm a doctoral candidate at the Technical University of Munich in the group for coding and cryptography (COD) led by [Prof. Antonia Wachter-Zeh](https://www.ce.cit.tum.de/lnt/people/professors/wachter-zeh/). Here's my [TUM webpage](https://www.ce.cit.tum.de/lnt/mitarbeiter/doktoranden/banerjee/).
+
+My research largely concerns coding for insertion and deletion errors, with a particular focus on DNA-based data storage.
+
+Feel free to reach out!
+
