@@ -74,6 +74,9 @@ education:
         - Supervised by Dr. Andreas Lenz at the Chair of Coding for Communications and Data Storage (Prof. Dr.-Ing. Antonia Wachter-Zeh)
         - Dealt with efficient decoding algorithms for convolutional codes to correct insertion & deletion errors. We derived a new decoding metric to facilitate the implementation of sequential decoders for insertion/deletion channels and compared a sequential Fano decoder with a Viterbi approach.
         - Awarded the Walter Gademann Master's Thesis Award of the TUM Department of Electrical and Computer Engineering (ECE)
+    button:
+      text: Download
+      url: uploads/masters_thesis_anisha.pdf
 
   - area: B.Eng. Electrical Engineering
     institution: Jadavpur University

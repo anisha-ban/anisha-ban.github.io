@@ -34,45 +34,51 @@
     </item>
     
     <item>
-      <title>Decoding Insertions/Deletions via List Recovery</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <title>Correcting Multiple Substitutions in Nanopore Sequencing Reads</title>
+      <link>http://localhost:1313/publication/banerjee-correcting-multiple-substitutions/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/publication/banerjee-correcting-multiple-substitutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding Insertions/Deletions via List Recovery</title>
+      <link>http://localhost:1313/publication/banerjee-decoding-insertions-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/banerjee-decoding-insertions-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Decoding of Multiple Traces Over the Syndrome Trellis for Synchronization Errors</title>
+      <link>http://localhost:1313/publication/banerjee-sequential-decoding-multiple-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/banerjee-sequential-decoding-multiple-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Decoding of Multiple Sequences for Synchronization Errors</title>
+      <link>http://localhost:1313/publication/banerjee-sequential-decoding-multiple-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/banerjee-sequential-decoding-multiple-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correcting a Single Deletion in Reads from a Nanopore Sequencer</title>
+      <link>http://localhost:1313/publication/banerjee-correcting-single-deletion-2024-a/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/banerjee-correcting-single-deletion-2024-a/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Error-Correcting Codes for Nanopore Sequencing</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/banerjee-error-correcting-codes-nanopore-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/publication/banerjee-error-correcting-codes-nanopore-2024/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -320,7 +326,7 @@
 
 
 
-&lt;div id=&#34;chart-528674319&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-168743529&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -338,7 +344,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-528674319&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-168743529&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -630,18 +636,18 @@ data.head()
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <title>Biography</title>
+      <link>http://localhost:1313/bio/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>http://localhost:1313/bio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/js/</link>
+      <link>http://localhost:1313/coauthors/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/js/</guid>
+      <guid>http://localhost:1313/coauthors/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -688,7 +694,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/coauthors/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -765,9 +771,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/python/</link>
+      <link>http://localhost:1313/coauthors/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/python/</guid>
+      <guid>http://localhost:1313/coauthors/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -814,7 +820,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/coauthors/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -965,96 +971,35 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;!--
----
-title: &#34;An example preprint / working paper&#34;
-authors:
-- admin
-date: &#34;2019-04-07T00:00:00Z&#34;
-doi: &#34;&#34;
-
-# Schedule page publish date (NOT publication&#39;s date).
-publishDate: &#34;2017-01-01T00:00:00Z&#34;
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: [&#34;article&#34;]
-
-# Publication name and optional abbreviated publication name.
-publication: &#34;&#34;
-publication_short: &#34;&#34;
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Large Language Models
-
-featured: true
-
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
-url_dataset: &#39;#&#39;
-url_poster: &#39;#&#39;
-url_project: &#39;&#39;
-url_slides: &#39;&#39;
-url_source: &#39;#&#39;
-url_video: &#39;#&#39;
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page&#39;s folder. 
-image:
-  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)&#39;
-  focal_point: &#34;&#34;
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project&#39;s folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck&#39;s filename without extension.
-#   E.g. `slides: &#34;example&#34;` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: &#34;&#34;`.
-slides: example
----
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-
-
-
-
-
-  
+      <title>Insertion and Deletion Correction in Polymer-Based Data Storage</title>
+      <link>http://localhost:1313/publication/banerjee-insertion-deletion-correction-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/banerjee-insertion-deletion-correction-2023/</guid>
+      <description></description>
+    </item>
     
-  
-
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
---&gt;
-</description>
+    <item>
+      <title>Error-Correcting Codes for Nanopore Sequencing</title>
+      <link>http://localhost:1313/publication/banerjee-error-correcting-codes-nanopore-2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/banerjee-error-correcting-codes-nanopore-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Decoding of Convolutional Codes for Synchronization Errors</title>
+      <link>http://localhost:1313/publication/banerjee-sequential-decoding-convolutional-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/banerjee-sequential-decoding-convolutional-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insertion and Deletion Correction in Polymer-Based Data Storage</title>
+      <link>http://localhost:1313/publication/banerjee-insertion-deletion-correction-2022-a/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/banerjee-insertion-deletion-correction-2022-a/</guid>
+      <description></description>
     </item>
     
   </channel>

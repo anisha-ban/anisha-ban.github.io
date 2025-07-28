@@ -11,11 +11,11 @@ main:
     url: bio/
     weight: 11
   - name: Research
-    url: /#research
+    url: publication/
     weight: 20
-  - name: News
-    url: news/
-    weight: 30
-  - name: Teaching
-    url: teaching/
+  #- name: News
+  #  url: news/
+  #  weight: 30
+  - name: Co-authors
+    url: coauthors/
     weight: 40

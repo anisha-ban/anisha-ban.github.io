@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Substitution (IDS) Channel | Anisha Banerjee</title>
+    <link>http://localhost:1313/tags/substitution-ids-channel/</link>
+      <atom:link href="http://localhost:1313/tags/substitution-ids-channel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Substitution (IDS) Channel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Substitution (IDS) Channel</title>
+      <link>http://localhost:1313/tags/substitution-ids-channel/</link>
+    </image>
+    
+    <item>
+      <title>Sequential Decoding of Multiple Sequences for Synchronization Errors</title>
+      <link>http://localhost:1313/publication/banerjee-sequential-decoding-multiple-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/banerjee-sequential-decoding-multiple-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,15 +3,13 @@
 title: ""
 date: 2022-10-24
 type: landing
-
 design:
   # Default section spacing
   spacing: "6rem"
-
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      # Choose a user profile to display (a folder name within content/authors/)
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
@@ -23,34 +21,46 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
+          # Add your image background to assets/media/.
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
-  #- block: markdown
-  #  content:
-  #    title: '📚 My Research'
-  #    subtitle: ''
-  #    text: |-
-  #      Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-  #      I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-  #      Please reach out to collaborate 😃
-  #  design:
-  #    columns: '1'
-  #- block: collection
-  #  id: papers
-  #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    view: article-grid
-  #    columns: 2
+  - block: markdown
+    #id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: |-
+        - June 2025: Presented the following work at ISIT 2025
+          - A.B., Yonatan Yehezkeally, Antonia Wachter-Zeh and Eitan Yaakobi, "Correcting Multiple Substitutions in Nanopore-Sequencing Reads."
+          - A.B., Roni Con, Antonia Wachter-Zeh and Eitan Yaakobi, "Decoding Insertions/Deletions visa List Recovery."
+        - June 2025: Research stay at School of Computing, Imperial College London
+        - May 2025: Research stay at Computational Bioinformatics Lab, Dept. of Computing, Imperial College London
+    design:
+      columns: '1'
+      css_class: news-section
+      css_style: |
+        max-width: 1000px;
+        margin: 0 auto;
+        width: 100%;
+        text-align: left;
+        #font-family: 'Georgia', serif;
+        font-size: 22px;
+        padding: 30px 0;
+        min-height: 50px;
+        .markdown ul {
+          padding-left: 40px;
+          margin: 10px 0;
+          text-align: left;
+          width: 100%;
+        }
+        .markdown li {
+          margin-bottom: 8px;
+          line-height: 1.6;
+        }
   - block: collection
     content:
       title: Recent Publications
@@ -61,20 +71,5 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  #- block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
-  #    filters:
-  #      folders:
-  #        - event
-  #  design:
-  #    view: article-grid
-  #    columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
 ---
+
