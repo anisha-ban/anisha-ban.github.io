@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 sections:
   - block: resume-biography-3
     content:
@@ -31,9 +31,10 @@ sections:
   - block: markdown
     #id: news
     content:
-      title: Recent News
-      subtitle: ''
+      title: ""
       text: |-
+        <h2 style="margin-bottom: 1px; padding-bottom: 1.5rem; font-size: 2.5rem; text-align: center">Recent News</h2>
+
         - June 2025: Presented the following work at ISIT 2025
           - A.B., Yonatan Yehezkeally, Antonia Wachter-Zeh and Eitan Yaakobi, "Correcting Multiple Substitutions in Nanopore-Sequencing Reads."
           - A.B., Roni Con, Antonia Wachter-Zeh and Eitan Yaakobi, "Decoding Insertions/Deletions visa List Recovery."
@@ -43,27 +44,27 @@ sections:
       columns: '1'
       css_class: news-section
       css_style: |
-        max-width: 1000px;
-        margin: 0 auto;
-        width: 100%;
+        max-width: 400rem;
         text-align: left;
         #font-family: 'Georgia', serif;
-        font-size: 22px;
-        padding: 30px 0;
-        min-height: 50px;
-        .markdown ul {
-          padding-left: 40px;
-          margin: 10px 0;
-          text-align: left;
-          width: 100%;
-        }
-        .markdown li {
-          margin-bottom: 8px;
-          line-height: 1.6;
-        }
+        font-size: 24px;
+        padding: 20px 0;
+
+
+
+  - block: markdown
+    content:
+      title: ""
+      text: |
+        <h2 style="margin-bottom: 1px; padding-bottom: 1; font-size: 2.5rem">Recent Publications</h2>
+    design:
+      columns: '1'
+      css_style: |
+        padding: 10px 0;
+        margin-bottom: 0;
   - block: collection
     content:
-      title: Recent Publications
+      title: ""
       text: ""
       filters:
         folders:
@@ -71,5 +72,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      css_style: |
+        margin-top: 0;
+        padding-top: 0;
 ---
 
