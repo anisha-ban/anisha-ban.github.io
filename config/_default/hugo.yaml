@@ -19,7 +19,10 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-
+params:
+  header:
+    navbar:
+      show_logo: false
 build:
   writeStats: true
 enableGitInfo: false
