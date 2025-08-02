@@ -3,7 +3,6 @@ title: Co-authors
 date: 2022-10-24
 cms_exclude: true
 ---
-
 <style>
 .authors-table {
   width: 100%;
@@ -12,17 +11,20 @@ cms_exclude: true
   font-size: 16px;
 }
 
+/* Light mode styles */
 .authors-table th {
   background-color: #f8f9fa;
   padding: 12px 15px;
   text-align: left;
   font-weight: 600;
   border-bottom: 2px solid #dee2e6;
+  color: #212529;
 }
 
 .authors-table td {
   padding: 12px 15px;
   border-bottom: 1px solid #dee2e6;
+  color: #212529;
 }
 
 .authors-table tr:nth-child(even) {
@@ -46,8 +48,115 @@ cms_exclude: true
 .authors-table tr:hover {
   background-color: #e9ecef;
 }
-</style>
 
+.authors-table a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.authors-table a:hover {
+  color: #004499;
+  text-decoration: underline;
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  .authors-table th {
+    background-color: #2d3748;
+    border-bottom: 2px solid #4a5568;
+    color: #e2e8f0;
+  }
+
+  .authors-table td {
+    border-bottom: 1px solid #4a5568;
+    color: #e2e8f0;
+  }
+
+  .authors-table tr:nth-child(even) {
+    background-color: #2d3748;
+  }
+
+  .authors-table tr:nth-child(odd) {
+    background-color: #1a202c;
+  }
+
+  .authors-table tr:hover {
+    background-color: #4a5568;
+  }
+
+  .authors-table a {
+    color: #63b3ed;
+  }
+
+  .authors-table a:hover {
+    color: #90cdf4;
+  }
+}
+
+/* Hugo Academic theme specific dark mode classes */
+html[data-theme="dark"] .authors-table th {
+  background-color: #2d3748;
+  border-bottom: 2px solid #4a5568;
+  color: #e2e8f0;
+}
+
+html[data-theme="dark"] .authors-table td {
+  border-bottom: 1px solid #4a5568;
+  color: #e2e8f0;
+}
+
+html[data-theme="dark"] .authors-table tr:nth-child(even) {
+  background-color: #2d3748;
+}
+
+html[data-theme="dark"] .authors-table tr:nth-child(odd) {
+  background-color: #1a202c;
+}
+
+html[data-theme="dark"] .authors-table tr:hover {
+  background-color: #4a5568;
+}
+
+html[data-theme="dark"] .authors-table a {
+  color: #63b3ed;
+}
+
+html[data-theme="dark"] .authors-table a:hover {
+  color: #90cdf4;
+}
+
+/* Additional fallback for body class based themes */
+.dark .authors-table th {
+  background-color: #2d3748;
+  border-bottom: 2px solid #4a5568;
+  color: #e2e8f0;
+}
+
+.dark .authors-table td {
+  border-bottom: 1px solid #4a5568;
+  color: #e2e8f0;
+}
+
+.dark .authors-table tr:nth-child(even) {
+  background-color: #2d3748;
+}
+
+.dark .authors-table tr:nth-child(odd) {
+  background-color: #1a202c;
+}
+
+.dark .authors-table tr:hover {
+  background-color: #4a5568;
+}
+
+.dark .authors-table a {
+  color: #63b3ed;
+}
+
+.dark .authors-table a:hover {
+  color: #90cdf4;
+}
+</style>
 <table class="authors-table">
   <thead>
     <tr>

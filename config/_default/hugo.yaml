@@ -6,8 +6,7 @@
 # Website name
 title: Anisha Banerjee
 # Website URL
-baseURL: 'https://anisha-ban.github.io/' #'https://example.com/'
-
+baseURL: 'https://anisha-ban.github.io/'
 ############################
 ## LANGUAGE
 ############################
