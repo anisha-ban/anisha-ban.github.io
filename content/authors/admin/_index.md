@@ -63,6 +63,15 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
+  - area: Ph.D. Electrical Engineering
+    institution: Technical University of Munich
+    date_start: 2021-04-01
+    summary: |
+      - Coding theory for insertions & deletions
+      - Efficient, reliable error-correction schemes for DNA-based data storage
+      - Coding for nanopore sequencing
+      - Convolutional codes
+      - Reed-solomon codes
   - area: M.Sc. Communications Engineering
     institution: Technical University of Munich
     date_start: 2018-10-01
@@ -89,6 +98,14 @@ education:
         - Supervised by Dr. Smita Sadhu at the Dept. of Electrical Engineering
         - Dealt with implementing a sliding mode control algorithm in MATLAB, that accepts fuzzy inputs to tackle the problem of an inverted pendulum on a cart system.
 work:
+  - position: Scientific employee
+    company_name: Chair of Coding and Cryptography (Prof. Dr.-Ing. Antonia Wachter-Zeh), Technical University of Munich
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-04-01
+    summary: |2-
+      - Teaching assistance
+      - Supervision of student theses
   - position: Scientific assistant (HiWi)
     company_name: Chair of Audio Information Processing (Prof. Seeber), Technical University of Munich
     company_url: ''
@@ -96,7 +113,6 @@ work:
     date_start: 2019-10-01
     date_end: 2020-12-15
     summary: |2-
-      Tasks and project:
       - Animation retargeting on 3D character models
       - Mesh modelling, editing and texturing
       - Mesh rendering and animations for Unreal Engine
@@ -107,7 +123,6 @@ work:
     date_start: 2019-04-01
     date_end: 2019-07-30
     summary: |
-      Tasks:
       - Determination of cell parameters from experimental data
       - Processing and de-noising of measured signals
 
