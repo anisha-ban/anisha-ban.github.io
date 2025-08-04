@@ -47,7 +47,7 @@ links:
    url: https://arxiv.org/abs/2505.02452
 #url_paper: ''
 url_slides: uploads/slides/isit25/main_list_recovery.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/anisha-ban/Koetter-Vardy-Insdels'
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
 

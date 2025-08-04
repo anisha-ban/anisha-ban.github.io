@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 2, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: August 4, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -817,7 +817,7 @@
   font-size: 16px;
 }
 
-/* Light mode styles */
+/* DEFAULT LIGHT MODE STYLES */
 .authors-table th {
   background-color: #f8f9fa;
   padding: 12px 15px;
@@ -865,102 +865,109 @@
   text-decoration: underline;
 }
 
-/* Dark mode styles */
+/* DARK MODE STYLES - Only apply when explicitly in dark mode */
 @media (prefers-color-scheme: dark) {
   .authors-table th {
-    background-color: #2d3748;
-    border-bottom: 2px solid #4a5568;
-    color: #e2e8f0;
+    background-color: #374151 !important;
+    border-bottom: 2px solid #6b7280 !important;
+    color: #f9fafb !important;
   }
 
   .authors-table td {
-    border-bottom: 1px solid #4a5568;
-    color: #e2e8f0;
+    border-bottom: 1px solid #6b7280 !important;
+    color: #f9fafb !important;
   }
 
   .authors-table tr:nth-child(even) {
-    background-color: #2d3748;
+    background-color: #374151 !important;
   }
 
   .authors-table tr:nth-child(odd) {
-    background-color: #1a202c;
+    background-color: #1f2937 !important;
   }
 
   .authors-table tr:hover {
-    background-color: #4a5568;
+    background-color: #4b5563 !important;
   }
 
   .authors-table a {
-    color: #63b3ed;
+    color: #60a5fa !important;
   }
 
   .authors-table a:hover {
-    color: #90cdf4;
+    color: #93c5fd !important;
   }
 }
 
-/* Hugo Academic theme specific dark mode classes */
+/* Hugo Academic theme dark mode */
 html[data-theme="dark"] .authors-table th {
-  background-color: #2d3748;
-  border-bottom: 2px solid #4a5568;
-  color: #e2e8f0;
+  background-color: #374151 !important;
+  border-bottom: 2px solid #6b7280 !important;
+  color: #f9fafb !important;
 }
 
 html[data-theme="dark"] .authors-table td {
-  border-bottom: 1px solid #4a5568;
-  color: #e2e8f0;
+  border-bottom: 1px solid #6b7280 !important;
+  color: #f9fafb !important;
 }
 
 html[data-theme="dark"] .authors-table tr:nth-child(even) {
-  background-color: #2d3748;
+  background-color: #374151 !important;
 }
 
 html[data-theme="dark"] .authors-table tr:nth-child(odd) {
-  background-color: #1a202c;
+  background-color: #1f2937 !important;
 }
 
 html[data-theme="dark"] .authors-table tr:hover {
-  background-color: #4a5568;
+  background-color: #4b5563 !important;
 }
 
 html[data-theme="dark"] .authors-table a {
-  color: #63b3ed;
+  color: #60a5fa !important;
 }
 
 html[data-theme="dark"] .authors-table a:hover {
-  color: #90cdf4;
+  color: #93c5fd !important;
 }
 
-/* Additional fallback for body class based themes */
+/* Body class dark mode fallback */
+body.dark .authors-table th,
 .dark .authors-table th {
-  background-color: #2d3748;
-  border-bottom: 2px solid #4a5568;
-  color: #e2e8f0;
+  background-color: #374151 !important;
+  border-bottom: 2px solid #6b7280 !important;
+  color: #f9fafb !important;
 }
 
+body.dark .authors-table td,
 .dark .authors-table td {
-  border-bottom: 1px solid #4a5568;
-  color: #e2e8f0;
+  border-bottom: 1px solid #6b7280 !important;
+  color: #f9fafb !important;
 }
 
+body.dark .authors-table tr:nth-child(even),
 .dark .authors-table tr:nth-child(even) {
-  background-color: #2d3748;
+  background-color: #374151 !important;
 }
 
+body.dark .authors-table tr:nth-child(odd),
 .dark .authors-table tr:nth-child(odd) {
-  background-color: #1a202c;
+  background-color: #1f2937 !important;
 }
 
+body.dark .authors-table tr:hover,
 .dark .authors-table tr:hover {
-  background-color: #4a5568;
+  background-color: #4b5563 !important;
 }
 
+body.dark .authors-table a,
 .dark .authors-table a {
-  color: #63b3ed;
+  color: #60a5fa !important;
 }
 
+body.dark .authors-table a:hover,
 .dark .authors-table a:hover {
-  color: #90cdf4;
+  color: #93c5fd !important;
 }
 </style>
 <table class="authors-table">

@@ -71,7 +71,7 @@ links:
 #   url: https://arxiv.org/abs/2505.02452
 url_paper: 'https://ieeexplore.ieee.org/document/10538284'
 url_slides: uploads/slides/itw22/seq_itw.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 
 # Custom links (uncomment lines below)
 # links:
