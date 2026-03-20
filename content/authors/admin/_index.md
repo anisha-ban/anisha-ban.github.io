@@ -25,7 +25,7 @@ role: Doctoral Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Technical University of Munich
-    url: https://www.ce.cit.tum.de/lnt/mitarbeiter/doktoranden/banerjee/
+    url: https://www.ce.cit.tum.de/lnt/mitarbeiter/promovierende/banerjee/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -214,7 +214,7 @@ awards:
 
 Hi, I'm Anisha! :)
 
-I'm a doctoral candidate at the Technical University of Munich in the group for coding and cryptography (COD) led by [Prof. Antonia Wachter-Zeh](https://www.ce.cit.tum.de/lnt/people/professors/wachter-zeh/). Here's my [TUM webpage](https://www.ce.cit.tum.de/lnt/mitarbeiter/doktoranden/banerjee/).
+I'm a doctoral candidate at the Technical University of Munich in the group for coding and cryptography (COD) led by [Prof. Antonia Wachter-Zeh](https://www.ce.cit.tum.de/lnt/mitarbeiter/professors/wachter-zeh/). Here's my [TUM webpage](https://www.ce.cit.tum.de/lnt/mitarbeiter/promovierende/banerjee/).
 
 My research largely concerns coding for insertion and deletion errors, with a particular focus on DNA-based data storage.
 
