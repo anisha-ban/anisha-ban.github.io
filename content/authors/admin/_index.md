@@ -216,7 +216,7 @@ Hi, I'm Anisha! :)
 
 I'm a doctoral candidate at the Technical University of Munich in the group for coding and cryptography (COD) led by [Prof. Antonia Wachter-Zeh](https://www.ce.cit.tum.de/lnt/mitarbeiter/professors/wachter-zeh/). Here's my [TUM webpage](https://www.ce.cit.tum.de/lnt/mitarbeiter/promovierende/banerjee/).
 
-My research largely concerns coding for insertion and deletion errors, with a particular focus on DNA-based data storage.
+My research largely concerns coding for insertion and deletion errors, with a particular focus on DNA-based data storage and nanopore sequencing.
 
 Feel free to reach out!
 

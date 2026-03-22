@@ -34,7 +34,8 @@ sections:
       title: ""
       text: |-
         <h2 style="margin-bottom: 1px; padding-bottom: 1.5rem; font-size: 2.5rem; text-align: center">Recent News</h2>
-
+        - September 2025: Presented following work at  Mathematisches Forschungsinstitut Oberwolfach:
+          - A.B., Roni Con, Antonia Wachter-Zeh and Eitan Yaakobi, "Decoding Insertions/Deletions visa List Recovery."
         - June 2025: Presented the following work at ISIT 2025
           - A.B., Yonatan Yehezkeally, Antonia Wachter-Zeh and Eitan Yaakobi, "Correcting Multiple Substitutions in Nanopore-Sequencing Reads."
           - A.B., Roni Con, Antonia Wachter-Zeh and Eitan Yaakobi, "Decoding Insertions/Deletions visa List Recovery."
