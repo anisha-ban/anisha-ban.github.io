@@ -1,3 +1,4 @@
 - Main navigation links in `config/default/menus.yaml`
 - Homepage content in `content/_index.md`
 - slides and other documents in `static/uploads`
+- To preview, run `hugo server` in terminal

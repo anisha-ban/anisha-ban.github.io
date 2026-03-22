@@ -137,6 +137,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: Bash
+        icon: code-bracket
+      - name: Rust
+        icon: code-bracket
       #- name: Data Science
       #  description: ''
       #  percent: 100
