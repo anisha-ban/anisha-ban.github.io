@@ -35,6 +35,9 @@ sections:
       text: |-
         <h2 style="margin-bottom: 1px; padding-bottom: 1.5rem; font-size: 2.5rem; text-align: center">Recent News</h2>
 
+        - March 2026: Our paper new paper is online on [arXiv](https://arxiv.org/abs/2604.01054).
+          - A.B., Roman Sokolovskii, Thomas Heinis, Antonia Wachter-Zeh, Eirik Rosnes, Alexandre Graell i Amat, "SynDe: SynDe: Syndrome–guided Decoding of Raw Nanopore Reads."
+
         - September 2025: Presented following work at  Mathematisches Forschungsinstitut Oberwolfach:
           - A.B., Roni Con, Antonia Wachter-Zeh and Eitan Yaakobi, "Decoding Insertions/Deletions visa List Recovery."
 
