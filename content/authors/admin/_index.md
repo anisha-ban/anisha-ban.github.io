@@ -47,11 +47,10 @@ profiles:
     url: https://orcid.org/0000-0003-2285-1482
 
 interests:
-  - Coding for insertions and deletions
-  - DNA-based Data Storage
-  - Nanopore Sequencing
-  - Convolutional Codes
-  - Reed-Solomon Codes
+  - Coding for data storage channels
+  - Decoding for synchronization errors
+  - Signal processing
+  - Optimization techniques
 
 education:
   #- area: PhD Computer Engineering
@@ -63,7 +62,7 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: Ph.D. Electrical Engineering
+  - area: Ph.D. Electrical and Computer Engineering (ongoing)
     institution: Technical University of Munich
     date_start: 2021-04-01
     summary: |
